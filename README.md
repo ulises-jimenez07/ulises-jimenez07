@@ -80,10 +80,9 @@ My educational background combines mathematical theory, technical engineering sk
 
 ## Let's Connect
 
-📧 **Email:** ulises.jimenez07@gmail.com
-📍 **Location:** México City
-🔗 **LinkedIn:** [ulises-jimenez-661072104](https://linkedin.com/in/ulises-jimenez-661072104)
-📚 **Medium:** [Google Cloud Community](https://medium.com/google-cloud)
+- 📧 **Email:** ulises.jimenez07@gmail.com
+- 📍 **Location:** México City
+- 🔗 **LinkedIn:** [ulises-jimenez-661072104](https://linkedin.com/in/ulises-jimenez-661072104)
 
 I'm always interested in connecting with other engineers and data scientists working on AI, machine learning, and cloud technologies.
 
