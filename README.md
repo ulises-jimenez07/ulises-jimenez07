@@ -98,5 +98,7 @@ I'm always interested in connecting with other engineers and data scientists wor
 
 ## Repository Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulises-jimenez07&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulises-jimenez07&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulises-jimenez07&theme=radical&cache=1" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulises-jimenez07&theme=radical&cache=1" alt="Most Commit Language" />
+</p>
