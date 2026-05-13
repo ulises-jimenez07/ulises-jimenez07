@@ -4,37 +4,45 @@ I'm an AI Engineering Leader and Senior Data Scientist with over 10 years of exp
 
 ## What I Do
 
-Currently leading AI engineering at **Salesforce**, working on internal tools spanning tax automation, finance systems, and recruitment. Previously at **Google Cloud**, I built production AI systems including PointNet-based auto-quoting for manufacturers and document processing pipelines using Document AI and LLMs.
+Currently leading AI engineering at **Salesforce**, building internal agentic systems and multi-agent coordination tools for tax automation, finance systems, and recruitment. Previously at **Google Cloud**, I built production AI systems including PointNet-based auto-quoting for manufacturers and document processing pipelines using Document AI and LLMs.
 
 My background combines deep technical expertise with extensive experience in finance, particularly anti-money laundering and risk management. This intersection has been valuable for building AI systems that are technically sound, compliant, and ethical. One of my most meaningful achievements was leading a team that identified and shut down a network of 100 accounts involved in human trafficking.
 
 ## Featured Projects
 
-### [Document AI + Gemini Integration](https://github.com/ulises-jimenez07/docai-gemini)
-Code example combining Google Cloud Document AI with Gemini for intelligent document analysis. Python implementation showcasing multimodal AI capabilities and practical use of GCP's AI services.
+### Cloud Computing & Big Data
+#### [GCP Hands-On Tutorials](https://github.com/ulises-jimenez07/cc-gcp)
+Comprehensive collection of hands-on tutorials for building real-world systems on Google Cloud Platform, covering architecture, automation, and best practices.
 
-### [Convert2PDF API](https://github.com/ulises-jimenez07/convert2pdf)
-API to convert Office Suite files to PDF using Debian, Python and LibreOffice. Featured in my [Medium article](https://medium.com/google-cloud/convert2pdf-an-api-to-transform-microsoft-office-files-into-pdf-3c95ada29d67) on Google Cloud Community. Deployed on GCP Cloud Run with LibreOffice headless mode for reliable, scalable document conversion.
+#### [AWS Tutorials](https://github.com/ulises-jimenez07/cc-aws)
+Production-ready AWS implementations following a progressive architecture approach, from basic services to complex cloud infrastructures.
 
-### [Big Data with GCP](https://github.com/ulises-jimenez07/big-data-gcp)
-Comprehensive course materials and implementations covering BigQuery, Dataflow, and other GCP data services. Jupyter notebooks with hands-on examples for data engineering and analytics pipelines.
+#### [Big Data on GCP](https://github.com/ulises-jimenez07/big-data-gcp)
+Deep dive into Big Data technologies (Hadoop, Hive, Dataproc) on Google Cloud, including end-to-end data pipelines and analytics.
 
-### [Cloud Computing with GCP](https://github.com/ulises-jimenez07/cloud-computing-gcp)
-Collection of practical GCP implementations, Infrastructure as Code examples, and automation scripts demonstrating real-world cloud architecture patterns and best practices.
+### AI & Agentic Systems
+#### [ADK Multi-Agent Demo](https://github.com/ulises-jimenez07/adk-multiagent-demo)
+Coordinated multi-agent system demonstration showcasing role-based collaboration and task orchestration using modern AI frameworks.
 
-### [Multi-Modal Question Generator](https://github.com/ulises-jimenez07/m_g_question_generator)
-Python application for generating intelligent questions using modern AI capabilities. Clean, modular codebase for educational content creation.
+#### [Music AI Assistant](https://github.com/ulises-jimenez07/music_ai_assistant)
+AI-powered Streamlit application for natural language music data analysis, featuring dynamic code generation and interactive visualizations.
 
-### [Coding Interview Prep](https://github.com/ulises-jimenez07/coding_exercises)
-Python implementations of common algorithmic challenges with well-documented solutions and multiple approaches for technical interview preparation.
+#### [Document AI + Gemini Integration](https://github.com/ulises-jimenez07/docai-gemini)
+Intelligent document analysis pipeline combining GCP's Document AI with Gemini for multimodal data extraction and reasoning.
+
+### MLOps & Automation
+#### [ML Model Deployment (K8s)](https://github.com/ulises-jimenez07/kube_micro_service_model)
+Full MLOps pipeline for deploying models on Kubernetes using FastAPI, Docker, and Kubeflow, featuring CI/CD and canary releases.
+
+#### [Convert2PDF API](https://github.com/ulises-jimenez07/convert2pdf)
+Scalable PDF conversion service deployed on GCP Cloud Run, utilizing LibreOffice headless mode and Python for high-performance document processing.
 
 ## Technical Skills
 
-**Programming:** Python • R • SQL • JavaScript
-**ML/AI:** PyTorch • TensorFlow • Deep Learning • Gen AI • Document AI • Gemini
-**Cloud:** GCP • Vertex AI • BigQuery • Dialogflow • Document AI • Cloud Run
-**Data:** Statistical Analysis • Time Series • Customer Segmentation • BigData Processing
-**Other:** API Development • Microservices • Docker • Infrastructure as Code
+**Programming:** Python • SQL • JavaScript • R
+**Cloud:** GCP (Vertex AI, BigQuery, Cloud Run, GKE) • AWS (S3, EC2, Lambda, Glue)
+**ML/AI:** Gen AI • LLM Orchestration • Multi-Agent Systems • Document AI • PyTorch • TensorFlow
+**Data & MLOps:** BigData (Hadoop, Spark, Hive) • Kubernetes (K8s) • CI/CD • Kubeflow • Docker
 
 I hold 4 GCP certifications and work extensively with generative AI technologies. My approach is tool-agnostic, whether building custom models with PyTorch or leveraging managed services like Vertex AI.
 
